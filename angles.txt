@@ -1,0 +1,31 @@
+ 
+ 
+Jan 18
+47F°
+ 
+Beam 1:Horizontal Angle: 307.0, Vertical Angle: 69.0
+Beam 2:Horizontal Angle: 311.0, Vertical Angle: 63.0
+Beam 3:Horizontal Angle: 140.0, Vertical Angle: 54.0
+Beam 4:Horizontal Angle: 247.0, Vertical Angle: 20.0
+Beam 5:Horizontal Angle: 175.0, Vertical Angle: 17.0
+Beam 6:Horizontal Angle: 184.0, Vertical Angle: 61.0
+Beam 7:Horizontal Angle: 189.0, Vertical Angle: 66.0
+Beam 8:Horizontal Angle: 298.0, Vertical Angle: 69.0
+Beam 9:Horizontal Angle: 299.0, Vertical Angle: 60.0
+Beam 10:Horizontal Angle: 304.0, Vertical Angle: 49.0
+Beam 11:Horizontal Angle: 190.0, Vertical Angle: 22.0
+Beam 12:Horizontal Angle: 194.0, Vertical Angle: 58.0
+Beam 13:Horizontal Angle: 201.0, Vertical Angle: 65.0
+Beam 14:Horizontal Angle: 289.0, Vertical Angle: 69.0
+Beam 15:Horizontal Angle: 287.0, Vertical Angle: 60.0
+Beam 16:Horizontal Angle: 280.0, Vertical Angle: 49.0
+Beam 17:Horizontal Angle: 214.0, Vertical Angle: 22.0
+Beam 18:Horizontal Angle: 207.0, Vertical Angle: 58.0
+Beam 19:Horizontal Angle: 209.0, Vertical Angle: 65.0
+Beam 20:Horizontal Angle: 279.0, Vertical Angle: 69.0
+Beam 21:Horizontal Angle: 274.0, Vertical Angle: 62.0
+Beam 22:Horizontal Angle: 268.0, Vertical Angle: 54.0
+Beam 23:Horizontal Angle: 159.0, Vertical Angle: 51.0
+Beam 24:Horizontal Angle: 230.0, Vertical Angle: 17.0
+Beam 25:Horizontal Angle: 220.0, Vertical Angle: 60.0
+Beam 26:Horizontal Angle: 215.0, Vertical Angle: 66.0
